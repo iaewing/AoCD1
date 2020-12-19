@@ -1,0 +1,13 @@
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\bin\Debug\netcoreapp3.1\D1P1.exe
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\bin\Debug\netcoreapp3.1\D1P1.deps.json
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\bin\Debug\netcoreapp3.1\D1P1.runtimeconfig.json
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\bin\Debug\netcoreapp3.1\D1P1.runtimeconfig.dev.json
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\bin\Debug\netcoreapp3.1\D1P1.dll
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\bin\Debug\netcoreapp3.1\D1P1.pdb
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\obj\Debug\netcoreapp3.1\D1P1.csprojAssemblyReference.cache
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\obj\Debug\netcoreapp3.1\D1P1.AssemblyInfoInputs.cache
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\obj\Debug\netcoreapp3.1\D1P1.AssemblyInfo.cs
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\obj\Debug\netcoreapp3.1\D1P1.csproj.CoreCompileInputs.cache
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\obj\Debug\netcoreapp3.1\D1P1.dll
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\obj\Debug\netcoreapp3.1\D1P1.pdb
+C:\Users\ian_6\source\repos\AoC2020\D1P1\D1P1\obj\Debug\netcoreapp3.1\D1P1.genruntimeconfig.cache
